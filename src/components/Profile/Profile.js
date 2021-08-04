@@ -3,7 +3,7 @@ import s from './Profile.module.css';
 import MyPosts from './MyPosts/MyPosts';
 
 const Profile = () => {
-    return <div className={s.content}>
+    return <div>
         <div>
         <img src="https://i.ytimg.com/vi/zmX24E_kyhM/maxresdefault.jpg" alt=""/>
         </div>
